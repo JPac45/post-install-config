@@ -30,6 +30,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+<b>Configure Roles in Admin panel</b>
+
+- Open osTicket via help desk login page: http://localhost/osTicket/scp/login.php
+- Admin Panel > Agents > Roles > Add New Role > Type "Supreme Admin" in Name: field > Permissions > Check all boxes under Tabs: Tickets, Tasks, Knowledgebase > Save Changes
+- NOTE: To switch between the admin and agent panel look at the top of the page. If it reads Admin panel it means you are in the Agent panel. If it reads Agent panel then you are in the Admin panel.
+  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
