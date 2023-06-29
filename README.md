@@ -107,10 +107,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Configure Help Topics</b>
 
-- Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
+- Admin Panel > Manage > Help Topics > Add New Help Topics > Type "Business Critical Outage" in Topic: field > Add Topic
+- Create #2, #3, and #4 below:
+  1. Business Critical Outage
+  2. Personal Computer Issues
+  3. Equipment Request
+  4. Password Reset
   
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EyzRZ4H.gif"/>
 </p>
 <p>
 </p>
