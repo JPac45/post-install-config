@@ -92,14 +92,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Configure SLA</b>
 
-- Admin Panel > Manage > SLA
+- Admin Panel > Manage > SLA > Add New SLA Plan > Type "SEV-A" in Name: field >  Choose 24/7 for Schedule: > Add Plan
+- Create #2 and #3 below:
   1. Sev-A (1 hour, 24/7)
   2. Sev-B (4 hours, 24/7)
   3. Sev-C (8 hours, business hours)
-
   
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/EhP3nL6.gif"/>
 </p>
 <p>
 </p>
