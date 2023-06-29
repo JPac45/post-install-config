@@ -80,10 +80,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Configure Users(customers)</b>
 
-- Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
+- Agent Panel > Users > Add Users  > Fill out Email Address: and Full Name: fields > Add User
+- Create another user i.e. "Ken" using same  steps above
   
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/ZanFET3.gif"/>
 </p>
 <p>
 </p>
@@ -91,7 +92,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Configure SLA</b>
 
-- Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
+- Admin Panel > Agents > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
   
 <p>
 <img src=""/>
