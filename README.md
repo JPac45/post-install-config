@@ -92,7 +92,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Configure SLA</b>
 
-- Admin Panel > Agents > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
+- Admin Panel > Manage > SLA
+  1. Sev-A (1 hour, 24/7)
+  2. Sev-B (4 hours, 24/7)
+  3. Sev-C (8 hours, business hours)
+
   
 <p>
 <img src=""/>
