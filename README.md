@@ -72,7 +72,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   
 <p>
-<img src=""/>
+<img src="https://i.imgur.com/GIChHwM.gif"/>
 </p>
 <p>
 </p>
