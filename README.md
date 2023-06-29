@@ -55,11 +55,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Allow anyone to create tickets</b>
 
-- Admin Panel > Settings > User Settings
-- Registration Required: Require registration and login to create tickets
+- Admin Panel > Settings > Users > Check Require registration and login to create tickets > Save Changes
+
   
 <p>
-<img src="https://i.imgur.com/Unm0Rz9.gif"/>
+<img src="https://i.imgur.com/ysXHga0.png"/>
 </p>
 <p>
 </p>
