@@ -67,7 +67,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Configure Agents(workers)</b>
 
-- Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
+- Admin Panel > Agents > Add New Agents  > Fill out Name:, Email Address:, Username: fields > Set Password > Uncheck Send the agent a password reset email > Create new password and confirm > Uncheck Require password change at next login > Set
+- Access tab > Select Department, Select Role, Extended Access Department from drop down menus > Teams tab > Select Team from drop down menu > Add > Create
+
   
 <p>
 <img src=""/>
