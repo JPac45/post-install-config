@@ -38,7 +38,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/qeLFdJG.gif"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<b>Configure Departments in Admin panel</b>
+
+- Admin Panel > Agents > Departments > Add New Department > Type "System Administrators" in Name: field > Create Dept
+  
+<p>
+<img src="https://i.imgur.com/qeLFdJG.gif"/>
+</p>
+<p>
 </p>
 <br />
 
