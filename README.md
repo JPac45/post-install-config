@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<b>Configure Departments in Admin panel</b>
+<b>Configure Departments</b>
 
 - Admin Panel > Agents > Departments > Add New Department > Type "System Administrators" in Name: field > Create Dept
   
@@ -41,12 +41,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
-<b>Configure Departments in Admin panel</b>
+<b>Configure Teams</b>
 
-- Admin Panel > Agents > Departments > Add New Department > Type "System Administrators" in Name: field > Create Dept
+- Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
   
 <p>
-<img src="https://i.imgur.com/qeLFdJG.gif"/>
+<img src="https://i.imgur.com/Unm0Rz9.gif"/>
 </p>
 <p>
 </p>
