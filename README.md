@@ -55,7 +55,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <b>Allow anyone to create tickets</b>
 
-- Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
+- Admin Panel > Settings > User Settings
+- Registration Required: Require registration and login to create tickets
   
 <p>
 <img src="https://i.imgur.com/Unm0Rz9.gif"/>
@@ -69,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
   
 <p>
-<img src="https://i.imgur.com/Unm0Rz9.gif"/>
+<img src=""/>
 </p>
 <p>
 </p>
@@ -80,7 +81,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
   
 <p>
-<img src="https://i.imgur.com/Unm0Rz9.gif"/>
+<img src=""/>
 </p>
 <p>
 </p>
@@ -91,7 +92,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
   
 <p>
-<img src="https://i.imgur.com/Unm0Rz9.gif"/>
+<img src=""/>
 </p>
 <p>
 </p>
@@ -102,7 +103,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Admin Panel > Agents > Teams > Add Teams (create Level II Support)  > Type "Level II Support" in Name: field > Members > Select an Agent on the drop down menu > Create Team
   
 <p>
-<img src="https://i.imgur.com/Unm0Rz9.gif"/>
+<img src=""/>
 </p>
 <p>
 </p>
